@@ -248,8 +248,8 @@
             <div class="content-wrap">
                 <div class="container"><h1>Projeler</h1>
                     <hr>
-                    <div class="work-history"><strong style="font-size: 20px">Web |
-                            YazilimBlogu</strong> - https://yazilimblogu.com
+                    <div class="work-history"><strong style="font-size: 20px">Web | YazilimBlogu</strong> - https://yazilimblogu.com
+                        <br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>HTML - CSS</li>
                             <li>OOP - PHP</li>
@@ -259,10 +259,10 @@
                         </ul>
                         <hr>
                     </div>
-                    <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) | Hadisaha</strong>
+                    <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) | Hadisaha</strong><br>
                         - Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br>
                         Google Play: <a href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
-                        App Store: Store aşamasında.<br>
+                        App Store: Store aşamasında.<br><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Flutter</li>
                             <li>Dart</li>
@@ -271,8 +271,9 @@
                             <li>Rest Api</li>
                             <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
                         </ul>
+                        <hr>
                     </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
+                    <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br><br>
                         <a target="_blank"
                            href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
                         <ul style="list-style: unset; margin-left: 16px">
@@ -285,7 +286,7 @@
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Web |
                             emreakcadag.com</strong> - <a
-                                href="https://www.emreakcadag.com">https://www.emreakcadag.com</a>
+                                href="https://www.emreakcadag.com">https://www.emreakcadag.com</a><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>HTML - CSS</li>
                             <li>MVC</li>
@@ -294,7 +295,7 @@
                         <hr>
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Android | FaturaPaylasim</strong><br>
-                        Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında
+                        Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Android Studio</li>
                             <li>Kotlin</li>
@@ -302,7 +303,6 @@
                             <li>Retrofit</li>
                             <li>JSON</li>
                         </ul>
-                        <hr>
                     </div>
                 </div>
                 <br>
