@@ -135,7 +135,7 @@
                     <hr>
                     <br>
                     <div class="work-history"><strong>Adres:</strong>
-                        Kartal / İstanbul
+                        İstanbul
 
                     </div>
                     <div class="work-history"><strong>Telefon:</strong>
@@ -143,7 +143,7 @@
 
                     </div>
                     <div class="work-history"><strong>Email:</strong>
-                        akcadagemre@gmail.com
+                        mail@emreakcadag.com
 
                     </div>
                     <div class="work-history"><strong>Web:</strong>
@@ -191,6 +191,7 @@
                                 <li>Html - Css</li>
                                 <li>Php</li>
                                 <li>Web Socket</li>
+                                <li>Kotlin - Server Side</li>
                             </ul>
                         </div>
                         <div class="col-6">
@@ -203,6 +204,7 @@
                                 <li>Web Servis</li>
                                 <li>MySQL</li>
                                 <li>Material Design</li>
+                                <li>SpringBoot Framework</li>
                             </ul>
                         </div>
 
@@ -246,18 +248,6 @@
             <div class="content-wrap">
                 <div class="container"><h1>Projeler</h1>
                     <hr>
-                    <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) |
-                            Hadisaha</strong> - Gerçek zamanlı sohbet ve ilan yayınlama uygulaması -
-                        Geliştirme aşamasında (%95)
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>Flutter</li>
-                            <li>Dart</li>
-                            <li>Nodejs</li>
-                            <li>MongoDB</li>
-                            <li>Rest Api</li>
-                            <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
-                        </ul>
-                    </div>
                     <div class="work-history"><strong style="font-size: 20px">Web |
                             YazilimBlogu</strong> - https://yazilimblogu.com
                         <ul style="list-style: unset; margin-left: 16px">
@@ -269,10 +259,22 @@
                         </ul>
                         <hr>
                     </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android | SLF
-                            Messenger</strong> -
+                    <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) | Hadisaha</strong>
+                        - Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br>
+                        Google Play: <a href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
+                        App Store: Store aşamasında.<br>
+                        <ul style="list-style: unset; margin-left: 16px">
+                            <li>Flutter</li>
+                            <li>Dart</li>
+                            <li>Nodejs</li>
+                            <li>MongoDB</li>
+                            <li>Rest Api</li>
+                            <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
+                        </ul>
+                    </div>
+                    <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
                         <a target="_blank"
-                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma</a>
+                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Android Studio</li>
                             <li>Kotlin</li>
@@ -282,7 +284,8 @@
                         <hr>
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Web |
-                            emreakcadag.com</strong> - https://emreakcadag.com
+                            emreakcadag.com</strong> - <a
+                                href="https://www.emreakcadag.com">https://www.emreakcadag.com</a>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>HTML - CSS</li>
                             <li>MVC</li>
@@ -290,8 +293,7 @@
                         </ul>
                         <hr>
                     </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android |
-                            FaturaPaylasim</strong> -
+                    <div class="work-history"><strong style="font-size: 20px">Android | FaturaPaylasim</strong><br>
                         Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Android Studio</li>
@@ -307,10 +309,8 @@
                 <div class="content-wrap">
                     <div class="container"><h1>Eğitim</h1>
                         <hr>
-                        <div class="work-history"><strong style="font-size: 20px">Erciyes
-                                Üniversitesi</strong> - Elektrik
-                            Elektronik Mühendisliği
-                            / <strong>2017</strong>
+                        <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
+                            Elektrik Elektronik Mühendisliği / <strong>2017</strong>
                             <hr>
                         </div>
                         <div class="work-history"><strong style="font-size: 20px">Universidad Del Pais
