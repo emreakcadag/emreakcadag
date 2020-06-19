@@ -248,8 +248,9 @@
             <div class="content-wrap">
                 <div class="container"><h1>Projeler</h1>
                     <hr>
-                    <div class="work-history"><strong style="font-size: 20px">Web | YazilimBlogu</strong> - https://yazilimblogu.com
-                        <br>
+                    <div class="work-history"><strong style="font-size: 20px">Web | YazilimBlogu</strong> -
+                        https://yazilimblogu.com
+                        <br><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>HTML - CSS</li>
                             <li>OOP - PHP</li>
@@ -260,7 +261,7 @@
                         <hr>
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) | Hadisaha</strong><br>
-                        - Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br>
+                        Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
                         Google Play: <a href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
                         App Store: Store aşamasında.<br><br>
                         <ul style="list-style: unset; margin-left: 16px">
@@ -273,9 +274,9 @@
                         </ul>
                         <hr>
                     </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br><br>
+                    <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
                         <a target="_blank"
-                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
+                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Android Studio</li>
                             <li>Kotlin</li>
@@ -286,7 +287,7 @@
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Web |
                             emreakcadag.com</strong> - <a
-                                href="https://www.emreakcadag.com">https://www.emreakcadag.com</a><br>
+                                href="https://www.emreakcadag.com">https://www.emreakcadag.com</a><br><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>HTML - CSS</li>
                             <li>MVC</li>
@@ -295,7 +296,7 @@
                         <hr>
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Android | FaturaPaylasim</strong><br>
-                        Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br>
+                        Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Android Studio</li>
                             <li>Kotlin</li>
