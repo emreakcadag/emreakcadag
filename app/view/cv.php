@@ -276,7 +276,8 @@
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
                         <a target="_blank"
-                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a><br>
+                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
+                        <br><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Android Studio</li>
                             <li>Kotlin</li>
