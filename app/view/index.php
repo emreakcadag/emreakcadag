@@ -22,7 +22,7 @@
     <meta name="description" content="Emre Akçadağ kişisel web sitesi. Emre Akçadağ personal website.">
     <meta name="author" content="Emre Akçadağ">
 
-    <meta name="yandex-verification" content="ed54f3f3b54ce1cc" />
+    <meta name="yandex-verification" content="ed54f3f3b54ce1cc"/>
 
     <title>Emre Akçadağ | Mobile Application Developer</title>
 
@@ -81,9 +81,10 @@
             </h1>
             <br>
             <div style="text-transform: none" class="subheading mb-5">
-                <a href="mailto:akcadagemre@gmail.com">akcadagemre@gmail.com</a>
+                <a href="mailto:mail@emreakcadag.com">mail@emreakcadag.com</a>
             </div>
-            <p class="lead mb-5">As an Android Application developer, I am experienced in Android, Kotlin, Flutter, Dart, Html, Php, Nodejs,
+            <p class="lead mb-5">As an Android Application developer, I am experienced in Android, Kotlin, Flutter,
+                Dart, Html, Php, Nodejs,
                 Mysql, Mongodb, Firebase, Json, Restful Api and WebSocket technologies. </p>
             <div class="social-icons">
                 <a target="_blank" title="linkedin" href="<?= site_url('linkedin') ?>">
@@ -98,9 +99,9 @@
                 <a target="_blank" title="googleplay" href="<?= site_url('googleplay') ?>">
                     <i class="fab fa-google-play"></i>
                 </a>
-                <!--<a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>-->
+                <a href="<?= site_url('twitter') ?>">
+                    <i class="fab fa-twitter"></i>
+                </a>
                 <!--<a href="#">
                   <i class="fab fa-facebook-f"></i>
                 </a>-->
@@ -151,6 +152,21 @@
 
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
+                    <h3 class="mb-0">Android -iOS | Hadisaha</h3>
+                    <div style="text-transform:none" class="subheading mb-3">
+                        <a target="_blank"
+                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">Google Play</a>
+                        |
+                        <a target="_blank">App Store</a>
+                    </div>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">April 2020</span>
+                </div>
+            </div>
+
+            <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
                     <h3 class="mb-0">Android | Realtime Chat App</h3>
                     <div style="text-transform:none" class="subheading mb-3"><a target="_blank"
                                                                                 href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">SLF
@@ -168,16 +184,6 @@
                 </div>
                 <div class="resume-date text-md-right">
                     <span class="text-primary">July 2018</span>
-                </div>
-            </div>
-
-            <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                <div class="resume-content mr-auto">
-                    <h3 class="mb-0">Android -iOS | Hadisaha</h3>
-                    <div style="text-transform:none" class="subheading mb-3"><a target="_blank">Oncoming</a></div>
-                </div>
-                <div class="resume-date text-md-right">
-                    <span class="text-primary">April 2020</span>
                 </div>
             </div>
 
