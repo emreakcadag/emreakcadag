@@ -143,7 +143,7 @@
 
                     </div>
                     <div class="work-history"><strong>Email:</strong>
-                        mail@emreakcadag.com
+                        <a href="mailto:mail@emreakcadag.com">mail@emreakcadag.com</a>
 
                     </div>
                     <div class="work-history"><strong>Web:</strong>
