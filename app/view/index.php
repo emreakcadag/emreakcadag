@@ -96,8 +96,11 @@
                 <a target="_blank" title="instagram" href="<?= site_url('instagram') ?>">
                     <i class="fab fa-instagram"></i>
                 </a>
-                <a target="_blank" title="googleplay" href="<?= site_url('googleplay') ?>">
+                <a target="_blank" title="GooglePlay" href="<?= site_url('googleplay') ?>">
                     <i class="fab fa-google-play"></i>
+                </a>
+                <a target="_blank" title="AppStore" href="<?= site_url('appstore') ?>">
+                    <i class="fab fa-app-store"></i>
                 </a>
                 <a href="<?= site_url('twitter') ?>">
                     <i class="fab fa-twitter"></i>
@@ -155,9 +158,9 @@
                     <h3 class="mb-0">Android - iOS | Hadisaha</h3>
                     <div style="text-transform:none" class="subheading mb-3">
                         <a target="_blank"
-                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">Hadisaha | Google Play</a>
+                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">Google Play</a>
                         |
-                        <a target="_blank" href="https://apps.apple.com/tr/app/hadisaha/id1529257561?l=tr">Hadisaha | App Store</a>
+                        <a target="_blank" href="https://apps.apple.com/tr/app/hadisaha/id1529257561?l=tr">App Store</a>
                     </div>
                 </div>
                 <div class="resume-date text-md-right">

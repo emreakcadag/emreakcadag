@@ -27,10 +27,13 @@ switch ($sc) {
         ?>
         <script>window.location.replace("https://play.google.com/store/apps/developer?id=Emre+Akçadağ");</script><?php
         break;
+    case "appstore":
+        ?>
+        <script>window.location.replace("https://apps.apple.com/tr/developer/emre-akcadag/id1529257563?l=tr");</script><?php
+        break;
     default:
         continue;
 }
-
 
 require_once view('index');
 
