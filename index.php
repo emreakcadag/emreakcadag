@@ -16,7 +16,7 @@ if (SUBFOLDER_NAME == '\\' || SUBFOLDER_NAME == '/'){
     array_shift($route);
 }
 
-$socials = ["linkedin", "instagram", "github", "twitter", "googleplay"];
+$socials = ["linkedin", "instagram", "github", "twitter", "googleplay", "appstore"];
 
 $sc = "";
 

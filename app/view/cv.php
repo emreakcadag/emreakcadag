@@ -139,7 +139,7 @@
 
                     </div>
                     <div class="work-history"><strong>Telefon:</strong>
-                        +90 (535) 627 00 93
+                        *
 
                     </div>
                     <div class="work-history"><strong>Email:</strong>
@@ -157,6 +157,11 @@
                     <div class="work-history"><strong>GooglePlay:</strong>
                         <a target="_blank"
                            href="https://emreakcadag.com/googleplay">https://emreakcadag.com/googleplay</a>
+
+                    </div>
+                    <div class="work-history"><strong>AppStore:</strong>
+                        <a target="_blank"
+                           href="https://emreakcadag.com/appstore">https://emreakcadag.com/appstore</a>
 
                     </div>
                 </div>
