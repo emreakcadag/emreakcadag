@@ -263,7 +263,7 @@
                     <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) | Hadisaha</strong><br>
                         Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
                         Google Play: <a href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
-                        App Store: Store aşamasında.<br><br>
+                        App Store: <a href="https://apps.apple.com/tr/app/hadisaha/id1529257561?l=tr">https://apps.apple.com/tr/app/hadisaha</a><br><br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Flutter</li>
                             <li>Dart</li>
