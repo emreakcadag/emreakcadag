@@ -222,9 +222,8 @@
                 <div class="container"><h1>İş Deneyimleri</h1>
                     <hr>
                     <div class="work-history"><strong style="font-size: 20px">Mid Android Developer</strong> - Akbank -
-                        adesso
-                        <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>Mart 2019 -
-                            Halen</strong>
+                        adesso<strong>Mart 2019 - Halen</strong>
+                        <h2>Detaylar</h2>
                         <hr>
                     </div>
                     <div class="work-history"><strong style="font-size: 20px">Jr. Android Developer</strong> -
