@@ -221,18 +221,19 @@
             <div class="content-wrap">
                 <div class="container"><h1>İş Deneyimleri</h1>
                     <hr>
-                    <div class="work-history"><strong style="font-size: 20px">Mid Android Developer</strong> - Akbank -
+                    <div class="work-history"><strong style="font-size: 22px">Mid Android Developer</strong> - Akbank -
                         adesso / <strong>Mart 2019 - Halen</strong>
                         <br>
                         <br>
-                        <p>Akbank Mobile - Android
+                        <ul style="list-style: unset">
+                            <li><h5>Akbank Mobile - Android</h5></li>
+                        </ul>
                         <p>
                             <b>Google Play</b>:
                             <a target="_blank"
                                href="https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=tr">play.google.com/akbank-mobile</a>
                         </p>
-                        </p>
-
+                        <br>
                         <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Android uygulama
                                 geliştirme, bug-fix, unit test, code review gibi konular üzerine
                                 Android uygulama geliştirici olarak çalışmalarda bulundum.<br><br>Wealth scrum ekibiyle;
@@ -241,7 +242,7 @@
                                 işlemlerinin gerçekleştirildiği yatırım modülünü; clean architecture ve son dizayn
                                 prensiblerine uyarak başarılı bir şekilde tamamladık.
                             </p></blockquote>
-
+                        <br>
                         <div style="padding-left: 16px" class="row">
 
                             <div class="col-6">
@@ -269,14 +270,15 @@
                             <hr>
                         </div>
                         <br>
-                        <p>Tosla - Android
+                        <ul style="list-style: unset">
+                            <li><h5>Tosla - Android</h5></li>
+                        </ul>
                         <p>
                             <b>Google Play</b>:
                             <a target="_blank"
                                href="https://play.google.com/store/apps/details?id=com.akode.tosla&hl=tr">play.google.com/tosla</a>
                         </p>
-                        </p>
-
+                        <br>
                         <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Android uygulama
                                 geliştirme, bug-fix, architecture refactoring, code review gibi konular üzerine
                                 Android uygulama geliştirici olarak çalışmaya temmuz 2020'den itibaren devam
@@ -286,7 +288,7 @@
                                 migration ve kod iyileştirme konularında geliştirmelerde bulundum.
                             </p>
                         </blockquote>
-
+                        <br>
                         <div style="padding-left: 16px" class="row">
 
                             <div class="col-6">
@@ -312,14 +314,14 @@
                         </div>
                         <hr>
                         <br>
-                        <div class="work-history"><strong style="font-size: 20px">Jr. Android Developer</strong> -
+                        <div class="work-history"><strong style="font-size: 22px">Jr. Android Developer</strong> -
                             Freelancer
                             <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>2017 - Mart
                                 2019</strong>
                             <hr>
                         </div>
                         <br>
-                        <div class="work-history"><strong style="font-size: 20px">Android Developer -
+                        <div class="work-history"><strong style="font-size: 22px">Android Developer -
                                 Stajyer</strong> -
                             Erbe Yazılım /
                             <!-- /react-text --><strong>Ocak 2017 - Şubat 2017</strong>
@@ -341,7 +343,7 @@
                 <div class="content-wrap">
                     <div class="container"><h1>Projeler</h1>
                         <hr>
-                        <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) |
+                        <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Hadisaha</strong><br>
                             Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
                             <b>Google Play</b>: <a target="_blank"
@@ -358,8 +360,9 @@
                                 <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
                             </ul>
                             <hr>
+                            <br>
                         </div>
-                        <div class="work-history"><strong style="font-size: 20px">Web |
+                        <div class="work-history"><strong style="font-size: 22px">Web |
                                 yazilimblogu.com</strong> - <a
                                     target="_blank" href="https://www.yazilimblogu.com">https://www.yazilimblogu.com</a><br><br>
                             <ul style="list-style: unset; margin-left: 16px">
@@ -371,8 +374,9 @@
                                 <li>Adobe XD</li>
                             </ul>
                             <hr>
+                            <br>
                         </div>
-                        <div class="work-history"><strong style="font-size: 20px">Web |
+                        <div class="work-history"><strong style="font-size: 22px">Web |
                                 emreakcadag.com</strong> - <a
                                     target="_blank"
                                     href="https://www.emreakcadag.com">https://www.emreakcadag.com</a><br><br>
@@ -382,8 +386,9 @@
                                 <li>JavaScript</li>
                             </ul>
                             <hr>
+                            <br>
                         </div>
-                        <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
+                        <div class="work-history"><strong style="font-size: 22px">Android | SLF Messenger</strong><br>
                             <a target="_blank"
                                href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
                             <br><br>
@@ -394,8 +399,9 @@
                                 <li>Retrofit</li>
                             </ul>
                             <hr>
+                            <br>
                         </div>
-                        <div class="work-history"><strong style="font-size: 20px">Android | FaturaPaylasim</strong><br>
+                        <div class="work-history"><strong style="font-size: 22px">Android | FaturaPaylasim</strong><br>
                             Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br><br>
                             <ul style="list-style: unset; margin-left: 16px">
                                 <li>Android Studio</li>
