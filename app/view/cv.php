@@ -222,119 +222,208 @@
                 <div class="container"><h1>İş Deneyimleri</h1>
                     <hr>
                     <div class="work-history"><strong style="font-size: 20px">Mid Android Developer</strong> - Akbank -
-                        adesso<strong> / Mart 2019 - Halen</strong>
-                        <h6>Detaylar</h6>
-
-                        <hr>
-                    </div>
-                    <div class="work-history"><strong style="font-size: 20px">Jr. Android Developer</strong> -
-                        Freelancer
-                        <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>2017 - Mart
-                            2019</strong>
-                        <hr>
-                    </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android Developer -
-                            Stajyer</strong> -
-                        Erbe Yazılım /
-                        <!-- /react-text --><strong>Ocak 2017 - Şubat 2017</strong>
+                        adesso / <strong>Mart 2019 - Halen</strong>
+                        <br>
+                        <br>
+                        <p>Akbank Mobile - Android
                         <p>
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>Android Studio</li>
-                            <li>Retrofit</li>
-                            <li>Rest Api</li>
-                            <li>JSON</li>
-                            <li>Metarial Design</li>
-                        </ul>
+                            <b>Google Play</b>:
+                            <a target="_blank"
+                               href="https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=tr">play.google.com/akbank-mobile</a>
                         </p>
-                    </div>
-                </div>
-            </div>
+                        </p>
 
-            <div class="content-wrap">
-                <div class="container"><h1>Projeler</h1>
-                    <hr>
-                    <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) | Hadisaha</strong><br>
-                        Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
-                        <b>Google Play</b>: <a target="_blank"
-                                               href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
-                        <b>App Store</b>: <a target="_blank"
-                                             href="https://apps.apple.com/tr/app/hadisaha/id1529257561?l=tr">https://apps.apple.com/tr/app/hadisaha</a><br><br>
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>Flutter</li>
-                            <li>Dart</li>
-                            <li>Nodejs</li>
-                            <li>Serverside Kotlin(SpringBoot Framework)</li>
-                            <li>MongoDB</li>
-                            <li>Rest Api</li>
-                            <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
-                        </ul>
-                        <hr>
-                    </div>
-                    <div class="work-history"><strong style="font-size: 20px">Web |
-                            yazilimblogu.com</strong> - <a
-                                target="_blank" href="https://www.yazilimblogu.com">https://www.yazilimblogu.com</a><br><br>
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>HTML - CSS</li>
-                            <li>OOP - PHP</li>
-                            <li>MySql</li>
-                            <li>MVC</li>
-                            <li>JavaScript</li>
-                            <li>Adobe XD</li>
-                        </ul>
-                        <hr>
-                    </div>
-                    <div class="work-history"><strong style="font-size: 20px">Web |
-                            emreakcadag.com</strong> - <a
-                                target="_blank"
-                                href="https://www.emreakcadag.com">https://www.emreakcadag.com</a><br><br>
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>HTML - CSS</li>
-                            <li>MVC</li>
-                            <li>JavaScript</li>
-                        </ul>
-                        <hr>
-                    </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
-                        <a target="_blank"
-                           href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
-                        <br><br>
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>Android Studio</li>
-                            <li>Kotlin</li>
-                            <li>Firebase - Authentication - FCM</li>
-                            <li>Retrofit</li>
-                        </ul>
-                        <hr>
-                    </div>
-                    <div class="work-history"><strong style="font-size: 20px">Android | FaturaPaylasim</strong><br>
-                        Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br><br>
-                        <ul style="list-style: unset; margin-left: 16px">
-                            <li>Android Studio</li>
-                            <li>Kotlin</li>
-                            <li>Rest Api</li>
-                            <li>Retrofit</li>
-                            <li>JSON</li>
-                        </ul>
-                    </div>
-                </div>
-                <br>
-                <div class="content-wrap">
-                    <div class="container"><h1>Eğitim</h1>
-                        <hr>
-                        <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
-                            Elektrik Elektronik Mühendisliği / <strong>2017</strong>
+                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Android uygulama
+                                geliştirme, bug-fix, unit test, code review gibi konular üzerine
+                                Android uygulama geliştirici olarak çalışmalarda bulundum.<br><br>Wealth scrum ekibiyle;
+                                Hisse
+                                senedi - Fon - Döviz alım satım
+                                işlemlerinin gerçekleştirildiği yatırım modülünü; clean architecture ve son dizayn
+                                prensiblerine uyarak başarılı bir şekilde tamamladık.
+                            </p></blockquote>
+
+                        <div style="padding-left: 16px" class="row">
+
+                            <div class="col-6">
+                                <ul style="list-style: unset">
+                                    <li>Kotlin</li>
+                                    <li>MVVM</li>
+                                    <li>ViewModel</li>
+                                    <li>Dagger2</li>
+                                    <li>Unit tests</li>
+                                    <li>Web services</li>
+                                    <li>Clean Architecture</li>
+                                </ul>
+                            </div>
+                            <div class="col-6">
+                                <ul style="list-style: unset">
+                                    <li>Mobile banking know-how</li>
+                                    <li>Jenkins</li>
+                                    <li>Use-cases</li>
+                                    <li>LiveData</li>
+                                    <li>Data binding</li>
+                                    <li>Git</li>
+                                    <li>Java</li>
+                                </ul>
+                            </div>
                             <hr>
                         </div>
-                        <div class="work-history"><strong style="font-size: 20px">Universidad Del Pais
-                                Vasco</strong> -
-                            Elektronik Mühendisliği / Erasmus+
-                            <strong>2016</strong>
+                        <br>
+                        <p>Tosla - Android
+                        <p>
+                            <b>Google Play</b>:
+                            <a target="_blank"
+                               href="https://play.google.com/store/apps/details?id=com.akode.tosla&hl=tr">play.google.com/tosla</a>
+                        </p>
+                        </p>
+
+                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Android uygulama
+                                geliştirme, bug-fix, architecture refactoring, code review gibi konular üzerine
+                                Android uygulama geliştirici olarak çalışmaya temmuz 2020'den itibaren devam
+                                ediyorum.<br><br>
+                                Bu kısa sürede MVVM refactoring, ViewModel implementation, base class
+                                implementations, generic dialogBox, network layer, clean architecture, hilt
+                                migration ve kod iyileştirme konularında geliştirmelerde bulundum.
+                            </p>
+                        </blockquote>
+
+                        <div style="padding-left: 16px" class="row">
+
+                            <div class="col-6">
+                                <ul style="list-style: unset">
+                                    <li>Kotlin</li>
+                                    <li>MVVM</li>
+                                    <li>Hilt</li>
+                                    <li>ViewModel</li>
+                                    <li>LiveData</li>
+                                    <li>Coroutines</li>
+                                </ul>
+                            </div>
+                            <div class="col-6">
+                                <ul style="list-style: unset">
+                                    <li>Mobile banking know-how</li>
+                                    <li>Jenkins</li>
+                                    <li>Git</li>
+                                    <li>Web services</li>
+                                    <li>Data binding</li>
+                                    <li>Clean Architecture</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <hr>
+                        <br>
+                        <div class="work-history"><strong style="font-size: 20px">Jr. Android Developer</strong> -
+                            Freelancer
+                            <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>2017 - Mart
+                                2019</strong>
+                            <hr>
+                        </div>
+                        <br>
+                        <div class="work-history"><strong style="font-size: 20px">Android Developer -
+                                Stajyer</strong> -
+                            Erbe Yazılım /
+                            <!-- /react-text --><strong>Ocak 2017 - Şubat 2017</strong>
+                            <p>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Android Studio</li>
+                                <li>Retrofit</li>
+                                <li>Rest Api</li>
+                                <li>JSON</li>
+                                <li>Material Design</li>
+                            </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="content-wrap">
+                    <div class="container"><h1>Projeler</h1>
+                        <hr>
+                        <div class="work-history"><strong style="font-size: 20px">Flutter(Android - iOS) |
+                                Hadisaha</strong><br>
+                            Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
+                            <b>Google Play</b>: <a target="_blank"
+                                                   href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
+                            <b>App Store</b>: <a target="_blank"
+                                                 href="https://apps.apple.com/tr/app/hadisaha/id1529257561?l=tr">https://apps.apple.com/tr/app/hadisaha</a><br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Flutter</li>
+                                <li>Dart</li>
+                                <li>Nodejs</li>
+                                <li>Serverside Kotlin(SpringBoot Framework)</li>
+                                <li>MongoDB</li>
+                                <li>Rest Api</li>
+                                <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
+                            </ul>
+                            <hr>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 20px">Web |
+                                yazilimblogu.com</strong> - <a
+                                    target="_blank" href="https://www.yazilimblogu.com">https://www.yazilimblogu.com</a><br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>HTML - CSS</li>
+                                <li>OOP - PHP</li>
+                                <li>MySql</li>
+                                <li>MVC</li>
+                                <li>JavaScript</li>
+                                <li>Adobe XD</li>
+                            </ul>
+                            <hr>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 20px">Web |
+                                emreakcadag.com</strong> - <a
+                                    target="_blank"
+                                    href="https://www.emreakcadag.com">https://www.emreakcadag.com</a><br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>HTML - CSS</li>
+                                <li>MVC</li>
+                                <li>JavaScript</li>
+                            </ul>
+                            <hr>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 20px">Android | SLF Messenger</strong><br>
+                            <a target="_blank"
+                               href="https://play.google.com/store/apps/details?id=com.emreakcadag.firebasemesajlasma">https://play.google.com/com.emreakcadag.firebasemesajlasma</a>
+                            <br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Android Studio</li>
+                                <li>Kotlin</li>
+                                <li>Firebase - Authentication - FCM</li>
+                                <li>Retrofit</li>
+                            </ul>
+                            <hr>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 20px">Android | FaturaPaylasim</strong><br>
+                            Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Android Studio</li>
+                                <li>Kotlin</li>
+                                <li>Rest Api</li>
+                                <li>Retrofit</li>
+                                <li>JSON</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="content-wrap">
+                        <div class="container"><h1>Eğitim</h1>
+                            <hr>
+                            <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
+                                Elektrik Elektronik Mühendisliği / <strong>2017</strong>
+                                <hr>
+                            </div>
+                            <div class="work-history"><strong style="font-size: 20px">Universidad Del Pais
+                                    Vasco</strong> -
+                                Elektronik Mühendisliği / Erasmus+
+                                <strong>2016</strong>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
 
     </body>
@@ -349,6 +438,10 @@
         display: block;
         margin: 0 auto 0.5cm;
         box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+    }
+
+    a {
+        color: cadetblue;
     }
 
     @media print {
