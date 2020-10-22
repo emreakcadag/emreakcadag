@@ -150,6 +150,10 @@
                         <a target="_blank" href="https://emreakcadag.com">https://emreakcadag.com</a>
 
                     </div>
+                    <div class="work-history"><strong>Blog:</strong>
+                        <a target="_blank" href="https://yazilimblogu.com">https://yazilimblogu.com</a>
+
+                    </div>
                     <div class="work-history"><strong>Linkedin:</strong>
                         <a target="_blank" href="https://emreakcadag.com/linkedin">https://emreakcadag.com/linkedin</a>
 
@@ -221,6 +225,7 @@
             <div class="content-wrap">
                 <div class="container"><h1>İş Deneyimleri</h1>
                     <hr>
+                    <br>
                     <div class="work-history"><strong style="font-size: 22px">Mid Android Developer</strong> - Akbank -
                         adesso / <strong>Mart 2019 - Halen</strong>
                         <br>
@@ -312,13 +317,13 @@
                                 </ul>
                             </div>
                         </div>
-                        <hr>
+                        <hr class="dotted">
                         <br>
                         <div class="work-history"><strong style="font-size: 22px">Jr. Android Developer</strong> -
                             Freelancer
                             <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>2017 - Mart
                                 2019</strong>
-                            <hr>
+                            <hr class="dotted">
                         </div>
                         <br>
                         <div class="work-history"><strong style="font-size: 22px">Android Developer -
@@ -343,6 +348,7 @@
                 <div class="content-wrap">
                     <div class="container"><h1>Projeler</h1>
                         <hr>
+                        <br>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Hadisaha</strong><br>
                             Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
@@ -359,7 +365,7 @@
                                 <li>Rest Api</li>
                                 <li>Firebase - Authentication - FCM - Remote Config - Storage</li>
                             </ul>
-                            <hr>
+                            <hr class="dotted">
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Web |
@@ -373,7 +379,7 @@
                                 <li>JavaScript</li>
                                 <li>Adobe XD</li>
                             </ul>
-                            <hr>
+                            <hr class="dotted">
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Web |
@@ -385,7 +391,7 @@
                                 <li>MVC</li>
                                 <li>JavaScript</li>
                             </ul>
-                            <hr>
+                            <hr class="dotted">
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Android | SLF Messenger</strong><br>
@@ -398,7 +404,7 @@
                                 <li>Firebase - Authentication - FCM</li>
                                 <li>Retrofit</li>
                             </ul>
-                            <hr>
+                            <hr class="dotted">
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Android | FaturaPaylasim</strong><br>
@@ -416,9 +422,11 @@
                     <div class="content-wrap">
                         <div class="container"><h1>Eğitim</h1>
                             <hr>
+                            <br>
                             <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
                                 Elektrik Elektronik Mühendisliği / <strong>2017</strong>
-                                <hr>
+                                <hr class="dotted">
+                                <br>
                             </div>
                             <div class="work-history"><strong style="font-size: 20px">Universidad Del Pais
                                     Vasco</strong> -
@@ -448,6 +456,10 @@
 
     a {
         color: cadetblue;
+    }
+
+    hr.dotted {
+        border-top: 1px dashed rgba(0, 0, 0, .1);
     }
 
     @media print {
