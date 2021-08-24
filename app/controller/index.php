@@ -21,7 +21,7 @@ switch ($sc) {
         break;
     case "twitter":
         ?>
-        <script>window.location.replace("https://twitter.com/gayfefincani");</script><?php
+        <script>window.location.replace("https://twitter.com/mrakcadag");</script><?php
         break;
     case "googleplay":
         ?>
