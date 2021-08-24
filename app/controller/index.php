@@ -25,7 +25,7 @@ switch ($sc) {
         break;
     case "googleplay":
         ?>
-        <script>window.location.replace("https://play.google.com/store/apps/developer?id=Emre+Akçadağ");</script><?php
+        <script>window.location.replace("https://play.google.com/store/apps/developer?id=App+Kraken");</script><?php
         break;
     case "appstore":
         ?>

@@ -179,7 +179,7 @@
                             sayesinde
                             birçok teknoloji ve programlama dilini öğrendim ve bunlarla alakalı projeler
                             geliştirdim.
-                            <br><br>Akbank lokasyonunda Mart 2019'dan beri Android Developer olarak çalışmaktayım.
+                            <br><br>Akbank lokasyonunda Mart 2019'dan itibaren Android Developer olarak çalışmaktayım.
                         </p>
                     </blockquote>
                 </div>
