@@ -102,7 +102,7 @@
                 <a target="_blank" title="AppStore" href="<?= site_url('appstore') ?>">
                     <i class="fab fa-app-store"></i>
                 </a>
-                <a href="<?= site_url('twitter') ?>">
+                <a target="_blank" title="Twitter" href="<?= site_url('twitter') ?>">
                     <i class="fab fa-twitter"></i>
                 </a>
                 <!--<a href="#">
