@@ -282,7 +282,7 @@
         <div class="my-auto">
             <h2 class="mb-5">Interests</h2>
             <p>Apart from being a web - mobile app developer, I enjoy most of my time being outdoors. In the winter, I
-                am an avid skier pool player. I enjoy hiking, bicycling and travelling.</p>
+                am an avid pool player. I enjoy hiking, bicycling and travelling.</p>
             <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television
                 shows, I spend a large amount of my free time exploring the latest technology advancements in the mobile
                 - web development world.</p>

@@ -197,10 +197,7 @@
                                 <li>Firebase</li>
                                 <li>MVVM</li>
                                 <li>Nodejs</li>
-                                <li>Html - Css</li>
-                                <li>Php</li>
-                                <li>Web Socket</li>
-                                <li>Kotlin - Server Side</li>
+                                <li>WebSocket</li>
                             </ul>
                         </div>
                         <div class="col-6">
@@ -208,12 +205,9 @@
                                 <li>Flutter</li>
                                 <li>Dart</li>
                                 <li>MongoDb</li>
-                                <li>Java</li>
                                 <li>JSON</li>
-                                <li>Web Servis</li>
-                                <li>MySQL</li>
+                                <li>Web Services</li>
                                 <li>Material Design</li>
-                                <li>SpringBoot Framework</li>
                             </ul>
                         </div>
 
