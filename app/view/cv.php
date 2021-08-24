@@ -351,11 +351,11 @@
                         <br>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Cooiny</strong><br>
-                            Kripto para haberleşme uygulaması<br><br>
-                            <b>Google Play</b>: <a target="_blank"
-                                                   href="https://play.google.com/store/apps/details?id=com.cooiny">https://play.google.com/com.cooiny</a><br>
+                            Kripto Para Haberleşme Uygulaması<br><br>
                             <b>App Store</b>: <a target="_blank"
-                                                 href="https://apps.apple.com/app/cooiny-bitcoin-crypto-chat/id1569433702">https://apps.apple.com/tr/app/cooiny</a><br><br>
+                                                 href="https://apps.apple.com/app/cooiny-bitcoin-crypto-chat/id1569433702#?platform=iphone">https://apps.apple.com/tr/app/cooiny</a><br>
+                            <b>Google Play</b>: <a target="_blank"
+                                                   href="https://play.google.com/store/apps/details?id=com.cooiny">https://play.google.com/com.cooiny</a><br><br>
                             <ul style="list-style: unset; margin-left: 16px">
                                 <li>Flutter</li>
                                 <li>Dart</li>
@@ -363,7 +363,9 @@
                                 <li>Firebase</li>
                                 <li>WebSocket</li>
                                 <li>MongoDB</li>
-                                <li>Firebase -> Functions - Authentication - Cloud Notifications - Remote Config - Storage - Hosting - Analytics - Firestore - DynamicLinks</li>
+                                <li>Firebase -> Functions - Authentication - Cloud Notifications - Remote Config -
+                                    Storage - Hosting - Analytics - Firestore - DynamicLinks
+                                </li>
                             </ul>
                             <hr class="dotted">
                             <br>
@@ -427,7 +429,7 @@
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Android | FaturaPaylasim</strong><br>
-                            Gerçek zamanlı uzak sayaç okuma uygulaması / Firma test aşamasında <br><br>
+                            Gerçek zamanlı uzaktan sayaç okuma uygulaması<br><br>
                             <ul style="list-style: unset; margin-left: 16px">
                                 <li>Android Studio</li>
                                 <li>Kotlin</li>
