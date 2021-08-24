@@ -350,6 +350,25 @@
                         <hr>
                         <br>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
+                                Cooiny</strong><br>
+                            Kripto para haberleşme uygulaması<br><br>
+                            <b>Google Play</b>: <a target="_blank"
+                                                   href="https://play.google.com/store/apps/details?id=com.cooiny">https://play.google.com/com.cooiny</a><br>
+                            <b>App Store</b>: <a target="_blank"
+                                                 href="https://apps.apple.com/app/cooiny-bitcoin-crypto-chat/id1569433702">https://apps.apple.com/tr/app/cooiny</a><br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Flutter</li>
+                                <li>Dart</li>
+                                <li>Nodejs</li>
+                                <li>Firebase</li>
+                                <li>WebSocket</li>
+                                <li>MongoDB</li>
+                                <li>Firebase -> Functions - Authentication - Cloud Notifications - Remote Config - Storage - Hosting - Analytics - Firestore - DynamicLinks</li>
+                            </ul>
+                            <hr class="dotted">
+                            <br>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Hadisaha</strong><br>
                             Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
                             <b>Google Play</b>: <a target="_blank"
