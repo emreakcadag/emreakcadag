@@ -155,6 +155,23 @@
 
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
+                    <h3 class="mb-0">Android - iOS | Cooiny</h3>
+                    <div style="text-transform:none" class="subheading mb-3">
+                        <a target="_blank"
+                           href="https://apps.apple.com/app/cooiny-bitcoin-crypto-chat/id1569433702#?platform=iphone">App
+                            Store</a>
+                        |
+                        <a target="_blank"
+                           href="https://play.google.com/store/apps/details?id=com.cooiny">Google Play</a>
+                    </div>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">June 2021</span>
+                </div>
+            </div>
+
+            <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
                     <h3 class="mb-0">Android - iOS | Hadisaha</h3>
                     <div style="text-transform:none" class="subheading mb-3">
                         <a target="_blank"
