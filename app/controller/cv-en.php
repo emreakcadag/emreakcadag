@@ -6,4 +6,4 @@
  * Time: 10:21 PM
  */
 
-require_once view('cv');
+require_once view('cv-en');
