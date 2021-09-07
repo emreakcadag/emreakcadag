@@ -174,10 +174,12 @@
             <div class="content-wrap">
                 <div class="container">
                     <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Graduated from Erciyes
-                            University - Department of Electrical and Electronics Engineering; I am a software engineer
-                            working on Android, Kotlin, Flutter, Dart, PHP, Nodejs and Web projects.
-                            Thanks to my curiosity to learn, I learned many technologies - programming languages and
-                            developed projects related to them.
+                            University - Department of Electrical and Electronics Engineering.
+                            <br>
+                            I am a software engineer working on Android, Kotlin, Flutter, Dart, PHP, Nodejs and Web
+                            projects. Thanks to my curiosity to learn, I learned many technologies - programming
+                            languages and developed projects related to them.
+                            <br>
                             <br>
                             I have been working as an Android Developer at Akbank location since March 2019.
                         </p>
@@ -420,7 +422,8 @@
                             <hr class="dotted">
                             <br>
                         </div>
-                        <div class="work-history"><strong style="font-size: 22px">Android | FaturaPaylasim</strong><br><br>
+                        <div class="work-history"><strong style="font-size: 22px">Android |
+                                FaturaPaylasim</strong><br><br>
                             <ul style="list-style: unset; margin-left: 16px">
                                 <li>Android Studio</li>
                                 <li>Kotlin</li>
