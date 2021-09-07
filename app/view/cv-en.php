@@ -134,11 +134,11 @@
                 <div class="container">
                     <hr>
                     <br>
-                    <div class="work-history"><strong>Adres:</strong>
-                        İstanbul
+                    <div class="work-history"><strong>Address:</strong>
+                        Istanbul
 
                     </div>
-                    <div class="work-history"><strong>Telefon:</strong>
+                    <div class="work-history"><strong>Mobile:</strong>
                         *
 
                     </div>
@@ -173,20 +173,20 @@
 
             <div class="content-wrap">
                 <div class="container">
-                    <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Erciyes Üniversitesi Elektrik
-                            Elektronik Mühendisliği bölümünden mezun; Android, Kotlin, Flutter, Dart, PHP, Nodejs ve Web
-                            projeleri üzerine çalışan bir yazılım mühendisiyim. <br> Öğrenme merakım
-                            sayesinde
-                            birçok teknoloji ve programlama dilini öğrendim ve bunlarla alakalı projeler
-                            geliştirdim.
-                            <br><br>Akbank lokasyonunda Mart 2019'dan itibaren Android Developer olarak çalışmaktayım.
+                    <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Graduated from Erciyes
+                            University - Department of Electrical and Electronics Engineering; I am a software engineer
+                            working on Android, Kotlin, Flutter, Dart, PHP, Nodejs and Web projects.
+                            Thanks to my curiosity to learn, I learned many technologies - programming languages and
+                            developed projects related to them.
+                            <br>
+                            I have been working as an Android Developer at Akbank location since March 2019.
                         </p>
                     </blockquote>
                 </div>
             </div>
 
             <div class="content-wrap">
-                <div class="container"><h1>Yetenekler</h1>
+                <div class="container"><h1>Skills</h1>
                     <hr>
                     <div style="padding-left: 16px" class="row">
 
@@ -217,11 +217,11 @@
             </div>
 
             <div class="content-wrap">
-                <div class="container"><h1>İş Deneyimleri</h1>
+                <div class="container"><h1>Experience</h1>
                     <hr>
                     <br>
                     <div class="work-history"><strong style="font-size: 22px">Mid Android Developer</strong> - Akbank -
-                        adesso / <strong>Mart 2019 - Halen</strong>
+                        adesso / <strong>March 2019 - Present</strong>
                         <br>
                         <br>
                         <ul style="list-style: unset">
@@ -233,13 +233,12 @@
                                href="https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=tr">play.google.com/akbank-mobile</a>
                         </p>
                         <br>
-                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Android uygulama
-                                geliştirme, bug-fix, unit test, code review gibi konular üzerine
-                                Android uygulama geliştirici olarak çalışmalarda bulundum.<br><br>Wealth scrum ekibiyle;
-                                Hisse
-                                senedi - Fon - Döviz alım satım
-                                işlemlerinin gerçekleştirildiği yatırım modülünü; clean architecture ve son dizayn
-                                prensiblerine uyarak başarılı bir şekilde tamamladık.
+                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Responsibilities: Android
+                                application development, bug-fix, unit tests, code review.
+                                <br><br>
+                                With the Wealth scrum team; We have successfully completed the investment module in
+                                which stock - fund - foreign exchange transactions are made by following clean
+                                architecture and the latest design principles.
                             </p></blockquote>
                         <br>
                         <div style="padding-left: 16px" class="row">
@@ -278,13 +277,14 @@
                                href="https://play.google.com/store/apps/details?id=com.akode.tosla&hl=tr">play.google.com/tosla</a>
                         </p>
                         <br>
-                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Android uygulama
-                                geliştirme, bug-fix, architecture refactoring, code review gibi konular üzerine
-                                Android uygulama geliştirici olarak çalışmaya temmuz 2020'den itibaren devam
-                                ediyorum.<br><br>
-                                Bu kısa sürede MVVM refactoring, ViewModel implementation, base class
-                                implementations, generic dialogBox, network layer, clean architecture, hilt
-                                migration ve kod iyileştirme konularında geliştirmelerde bulundum.
+                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Since July 2020, I have
+                                been working as an Android application developer on Android application development,
+                                bug-fixing, architectural refactoring, code review.
+                                <br><br>
+                                In this short time I have made improvements to MVVM refactoring, base viewModel
+                                implementation,
+                                base class implementations, generic dialogBox, clean architecture refactor, hilt
+                                migration and code optimizations.
                             </p>
                         </blockquote>
                         <br>
@@ -315,15 +315,14 @@
                         <br>
                         <div class="work-history"><strong style="font-size: 22px">Jr. Android Developer</strong> -
                             Freelancer
-                            <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>2017 - Mart
+                            <!-- /react-text --><!-- react-text: 30 --> / <!-- /react-text --><strong>2017 - March
                                 2019</strong>
                             <hr class="dotted">
                         </div>
                         <br>
-                        <div class="work-history"><strong style="font-size: 22px">Android Developer -
-                                Stajyer</strong> -
+                        <div class="work-history"><strong style="font-size: 22px">Android Developer - Intern</strong> -
                             Erbe Yazılım /
-                            <!-- /react-text --><strong>Ocak 2017 - Şubat 2017</strong>
+                            <!-- /react-text --><strong>January 2017 - February 2017</strong>
                             <p>
                             <ul style="list-style: unset; margin-left: 16px">
                                 <li>Android Studio</li>
@@ -340,12 +339,12 @@
                 <br>
 
                 <div class="content-wrap">
-                    <div class="container"><h1>Projeler</h1>
+                    <div class="container"><h1>Projects</h1>
                         <hr>
                         <br>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Cooiny</strong><br>
-                            Kripto Para Haberleşme Uygulaması<br><br>
+                            Cryptocurrency Social Chatting Application<br><br>
                             <b>App Store</b>: <a target="_blank"
                                                  href="https://apps.apple.com/app/cooiny-bitcoin-crypto-chat/id1569433702#?platform=iphone">https://apps.apple.com/tr/app/cooiny</a><br>
                             <b>Google Play</b>: <a target="_blank"
@@ -365,8 +364,7 @@
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
-                                Hadisaha</strong><br>
-                            Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
+                                Hadisaha</strong><br><br>
                             <b>Google Play</b>: <a target="_blank"
                                                    href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>
                             <b>App Store</b>: <a target="_blank"
@@ -422,8 +420,7 @@
                             <hr class="dotted">
                             <br>
                         </div>
-                        <div class="work-history"><strong style="font-size: 22px">Android | FaturaPaylasim</strong><br>
-                            Gerçek zamanlı uzaktan sayaç okuma uygulaması<br><br>
+                        <div class="work-history"><strong style="font-size: 22px">Android | FaturaPaylasim</strong><br><br>
                             <ul style="list-style: unset; margin-left: 16px">
                                 <li>Android Studio</li>
                                 <li>Kotlin</li>
@@ -435,17 +432,17 @@
                     </div>
                     <br>
                     <div class="content-wrap">
-                        <div class="container"><h1>Eğitim</h1>
+                        <div class="container"><h1>Education</h1>
                             <hr>
                             <br>
-                            <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
-                                Elektrik Elektronik Mühendisliği / <strong>2017</strong>
+                            <div class="work-history"><strong style="font-size: 20px">Erciyes University</strong> -
+                                Electrical and Electronics Engineering / <strong>2017</strong>
                                 <hr class="dotted">
                                 <br>
                             </div>
                             <div class="work-history"><strong style="font-size: 20px">Universidad Del Pais
                                     Vasco</strong> -
-                                Elektronik Mühendisliği / Erasmus+
+                                Electrical and Electronics Engineering / Erasmus+
                                 <strong>2016</strong>
                             </div>
                         </div>
