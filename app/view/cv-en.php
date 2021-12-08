@@ -366,6 +366,21 @@
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
+                                Makkie Online Supermarkt</strong><br>
+                            E-Commerce Application<br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Flutter</li>
+                                <li>Dart</li>
+                                <li>Firebase</li>
+                                <li>Firebase -> Functions - Authentication - Cloud Notifications - Remote Config -
+                                    Storage - Analytics - DynamicLinks
+                                </li>
+                                <li>Payment System Integration</li>
+                            </ul>
+                            <hr class="dotted">
+                            <br>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Hadisaha</strong><br><br>
                             <b>Google Play</b>: <a target="_blank"
                                                    href="https://play.google.com/store/apps/details?id=com.emreakcadag.hadisaha">https://play.google.com/com.emreakcadag.hadisaha</a><br>

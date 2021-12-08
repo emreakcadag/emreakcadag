@@ -365,6 +365,21 @@
                             <br>
                         </div>
                         <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
+                                Makkie Online Supermarkt</strong><br>
+                            E-Ticaret Uygulaması<br><br>
+                            <ul style="list-style: unset; margin-left: 16px">
+                                <li>Flutter</li>
+                                <li>Dart</li>
+                                <li>Firebase</li>
+                                <li>Firebase -> Functions - Authentication - Cloud Notifications - Remote Config -
+                                    Storage - Analytics - DynamicLinks
+                                </li>
+                                <li>Ödeme Sistemi Entegrasyonu</li>
+                            </ul>
+                            <hr class="dotted">
+                            <br>
+                        </div>
+                        <div class="work-history"><strong style="font-size: 22px">Flutter(Android - iOS) |
                                 Hadisaha</strong><br>
                             Gerçek zamanlı sohbet ve ilan yayınlama uygulaması<br><br>
                             <b>Google Play</b>: <a target="_blank"
