@@ -458,7 +458,6 @@
                                 <hr class="dotted">
                                 <br>
                             </div>
-                            <br>
                             <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
                                 Elektrik Elektronik Mühendisliği / <strong>2017</strong>
                                 <hr class="dotted">

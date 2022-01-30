@@ -458,7 +458,6 @@
                                 <hr class="dotted">
                                 <br>
                             </div>
-                            <br>
                             <div class="work-history"><strong style="font-size: 20px">Erciyes University</strong> -
                                 Electrical and Electronics Engineering / <strong>2017</strong>
                                 <hr class="dotted">
