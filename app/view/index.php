@@ -81,7 +81,7 @@
             </h1>
             <br>
             <div style="text-transform: none" class="subheading mb-5">
-                <a href="mailto:mail@emreakcadag.com">mail@emreakcadag.com</a>
+                <a href="mailto:emre@akcadag.dev">emre@akcadag.dev</a>
             </div>
             <p class="lead mb-5">As an Android Application developer, I am experienced in Android, Kotlin, Flutter,
                 Dart, Html, Php, Nodejs,
@@ -120,7 +120,7 @@
 
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
-                    <h3 class="mb-0">Mid Android Developer</h3>
+                    <h3 class="mb-0">Senior Android Developer</h3>
                     <div class="subheading mb-3"><label style="text-transform: none">Akbank - adesso</label></div>
                 </div>
                 <div class="resume-date text-md-right">
@@ -216,6 +216,17 @@
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
         <div class="my-auto">
             <h2 class="mb-5">Education</h2>
+
+            <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                    <h3 class="mb-0">Akhmet Yassawi University</h3>
+                    <div class="subheading mb-3">Master's Degree, Software Engineering</div>
+                    <div>Software Engineering</div>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">2020 - 2022</span>
+                </div>
+            </div>
 
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">

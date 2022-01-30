@@ -143,7 +143,7 @@
 
                     </div>
                     <div class="work-history"><strong>Email:</strong>
-                        <a href="mailto:mail@emreakcadag.com">mail@emreakcadag.com</a>
+                        <a href="mailto:emre@akcadag.dev">emre@akcadag.dev</a>
 
                     </div>
                     <div class="work-history"><strong>Web:</strong>
@@ -222,7 +222,7 @@
                 <div class="container"><h1>Experience</h1>
                     <hr>
                     <br>
-                    <div class="work-history"><strong style="font-size: 22px">Mid Android Developer</strong> - Akbank -
+                    <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> - Akbank -
                         adesso / <strong>March 2019 - Present</strong>
                         <br>
                         <br>
@@ -452,6 +452,12 @@
                     <div class="content-wrap">
                         <div class="container"><h1>Education</h1>
                             <hr>
+                            <br>
+                            <div class="work-history"><strong style="font-size: 20px">Akhmet Yassawi University</strong> -
+                                Master's Degree | Software Engineering / <strong>2022</strong>
+                                <hr class="dotted">
+                                <br>
+                            </div>
                             <br>
                             <div class="work-history"><strong style="font-size: 20px">Erciyes University</strong> -
                                 Electrical and Electronics Engineering / <strong>2017</strong>

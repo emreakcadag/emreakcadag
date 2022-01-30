@@ -143,7 +143,7 @@
 
                     </div>
                     <div class="work-history"><strong>Email:</strong>
-                        <a href="mailto:mail@emreakcadag.com">mail@emreakcadag.com</a>
+                        <a href="mailto:emre@akcadag.dev">emre@akcadag.dev</a>
 
                     </div>
                     <div class="work-history"><strong>Web:</strong>
@@ -220,7 +220,7 @@
                 <div class="container"><h1>İş Deneyimleri</h1>
                     <hr>
                     <br>
-                    <div class="work-history"><strong style="font-size: 22px">Mid Android Developer</strong> - Akbank -
+                    <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> - Akbank -
                         adesso / <strong>Mart 2019 - Halen</strong>
                         <br>
                         <br>
@@ -452,6 +452,12 @@
                     <div class="content-wrap">
                         <div class="container"><h1>Eğitim</h1>
                             <hr>
+                            <br>
+                            <div class="work-history"><strong style="font-size: 20px">Ahmet Yesevi Üniversitesi</strong> -
+                                Yüksek Lisans | Yazılım Mühendisliği / <strong>2022</strong>
+                                <hr class="dotted">
+                                <br>
+                            </div>
                             <br>
                             <div class="work-history"><strong style="font-size: 20px">Erciyes Üniversitesi</strong> -
                                 Elektrik Elektronik Mühendisliği / <strong>2017</strong>
