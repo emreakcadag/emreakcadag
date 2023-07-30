@@ -228,27 +228,31 @@
                         <br>
                         <br>
                         <ul style="list-style: unset">
-                            <li><h5>Akbank Mobile - Android</h5></li>
+                            <li><h5>sahibinden.com - Android</h5></li>
                         </ul>
                         <p>
                             <b>Google Play</b>:
                             <a target="_blank"
-                               href="https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=tr">play.google.com/akbank-mobile</a>
+                               href="https://play.google.com/store/apps/details?id=com.sahibinden">play.google.com/sahibinden.com</a>
                         </p>
                         <br>
-                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Responsibilities: Android
-                                application development, bug-fix, unit tests, code review.
-                                <br><br>
-                                With the Wealth scrum team; We have successfully completed the investment module in
-                                which stock - fund - foreign exchange transactions are made by following clean
-                                architecture and the latest design principles.
+                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">As a Senior Android
+                                Developer at sahibinden.com, I actively contribute to the development of the auction
+                                selling system. Leveraging my expertise in mobile app development and cutting-edge
+                                technologies, I play a key role in creating a robust and user-friendly auction platform.
+                                My responsibilities involve integrating auction-related features into the Android
+                                application, ensuring seamless functionality, and optimizing the user experience for
+                                both buyers and sellers. Collaborating with the team, I strive to build an efficient and
+                                dynamic auction system that enhances sahibinden.com's offerings, providing users with an
+                                exceptional selling and buying experience.
                             </p></blockquote>
-                        <br>
                         <p>
                         <ul style="list-style: unset; margin-left: 16px">
-                            <li>Kotlin</li>
-                            <li>Compose</li>
-                            <li>Hilt</li>
+                            <li>Jetpack Compose</li>
+                            <li>Coroutines</li>
+                            <li>Flow</li>
+                            <li>MVVM Architecture</li>
+                            <li>Room</li>
                             <li>Clean Architecture</li>
                         </ul>
                         </p>
@@ -256,7 +260,8 @@
 
                     <hr class="dotted">
 
-                    <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> - Akbank -
+                    <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> - Akbank
+                        -
                         adesso / <strong>March 2019 - May 2022</strong>
                         <br>
                         <br>
@@ -487,7 +492,8 @@
                         <div class="container"><h1>Education</h1>
                             <hr>
                             <br>
-                            <div class="work-history"><strong style="font-size: 20px">Akhmet Yassawi University</strong> -
+                            <div class="work-history"><strong style="font-size: 20px">Akhmet Yassawi University</strong>
+                                -
                                 Master's Degree | Software Engineering / <strong>2022</strong>
                                 <hr class="dotted">
                                 <br>
