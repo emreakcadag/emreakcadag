@@ -222,8 +222,23 @@
                 <div class="container"><h1>Experience</h1>
                     <hr>
                     <br>
+                    <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> -
+                        sahibinden.com /
+                        <!-- /react-text --><strong>May 2022 - Present</strong>
+                        <p>
+                        <ul style="list-style: unset; margin-left: 16px">
+                            <li>Kotlin</li>
+                            <li>Compose</li>
+                            <li>Hilt</li>
+                            <li>Clean Architecture</li>
+                        </ul>
+                        </p>
+                    </div>
+
+                    <hr class="dotted">
+
                     <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> - Akbank -
-                        adesso / <strong>March 2019 - Present</strong>
+                        adesso / <strong>March 2019 - May 2022</strong>
                         <br>
                         <br>
                         <ul style="list-style: unset">
