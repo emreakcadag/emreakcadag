@@ -247,6 +247,7 @@
                                 exceptional selling and buying experience.
                             </p></blockquote>
                         <p>
+                            <br>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Jetpack Compose</li>
                             <li>Coroutines</li>
