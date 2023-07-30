@@ -173,17 +173,18 @@
 
             <div class="content-wrap">
                 <div class="container">
-                    <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">I hold a degree in Electrical
-                            and Electronics Engineering from Erciyes University.
+                    <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">I completed my Master's
+                            degree in Software Engineering at Akhmet Yassawi University.
                             <br>
-                            As a passionate software engineer, I specialize in Android development and have expertise in Kotlin, Flutter, Dart, Node.js, and
+                            As a passionate software engineer, I specialize in Android development and have expertise in
+                            Kotlin, Flutter, Dart, Node.js, and
                             various web technologies. My curiosity for learning has driven me to explore and master a
                             wide range of technologies and programming languages, leading to the successful development
                             of various Android and web projects.
                             <br>
                             <br>
-                            Since May 2022, I have been working as an Android Developer at sahibinden.com, where I actively
-                            contribute my skills and knowledge to create innovative and user-friendly mobile
+                            Since May 2022, I have been working as an Android Developer at sahibinden.com, where I
+                            actively contribute my skills and knowledge to create innovative and user-friendly mobile
                             applications.
                             <br>
                         </p>
