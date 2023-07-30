@@ -225,6 +225,25 @@
                     <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> -
                         sahibinden.com /
                         <!-- /react-text --><strong>May 2022 - Present</strong>
+                        <br>
+                        <br>
+                        <ul style="list-style: unset">
+                            <li><h5>Akbank Mobile - Android</h5></li>
+                        </ul>
+                        <p>
+                            <b>Google Play</b>:
+                            <a target="_blank"
+                               href="https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=tr">play.google.com/akbank-mobile</a>
+                        </p>
+                        <br>
+                        <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">Responsibilities: Android
+                                application development, bug-fix, unit tests, code review.
+                                <br><br>
+                                With the Wealth scrum team; We have successfully completed the investment module in
+                                which stock - fund - foreign exchange transactions are made by following clean
+                                architecture and the latest design principles.
+                            </p></blockquote>
+                        <br>
                         <p>
                         <ul style="list-style: unset; margin-left: 16px">
                             <li>Kotlin</li>
