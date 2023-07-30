@@ -259,7 +259,9 @@
                         </p>
                     </div>
 
+                    <br>
                     <hr class="dotted">
+                    <br>
 
                     <div class="work-history"><strong style="font-size: 22px">Senior Android Developer</strong> - Akbank
                         -
