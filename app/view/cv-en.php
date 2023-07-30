@@ -176,6 +176,7 @@
                     <blockquote class="blockquote"><p style="font-size: 16px" class="mb-0">I completed my Master's
                             degree in Software Engineering at Akhmet Yassawi University.
                             <br>
+                            <br>
                             As a passionate software engineer, I specialize in Android development and have expertise in
                             Kotlin, Flutter, Dart, Node.js, and
                             various web technologies. My curiosity for learning has driven me to explore and master a
