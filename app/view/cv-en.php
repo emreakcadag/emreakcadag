@@ -135,7 +135,7 @@
                     <hr>
                     <br>
                     <div class="work-history"><strong>Address:</strong>
-                        Izmir
+                        Izmir/Turkey
 
                     </div>
                     <div class="work-history"><strong>Mobile:</strong>
