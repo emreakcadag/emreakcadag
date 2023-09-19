@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreakcadag&label=Profile%20views&color=0e75b6&style=flat" alt="emreakcadag" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrakcadag" target="blank"><img src="https://img.shields.io/twitter/follow/gayfefincani?logo=twitter&style=for-the-badge" alt="gayfefincani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrakcadag" target="blank"><img src="https://img.shields.io/twitter/follow/akcadagdev?logo=twitter&style=for-the-badge" alt="gayfefincani" /></a> </p>
 
 - 🔭 I’m currently working on [Tosla](https://play.google.com/store/apps/details?id=com.akode.tosla&hl=tr&gl=US), [Hadisaha](https://apps.apple.com/tr/app/hadisaha/id1529257561) and Unichat
 
