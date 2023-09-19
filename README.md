@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Emre Akçadağ</h1>
-<h3 align="center">Flutter and Android application developer in Istanbul</h3>
+<h3 align="center">Flutter and Android application developer at sahibinden.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreakcadag&label=Profile%20views&color=0e75b6&style=flat" alt="emreakcadag" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrakcadag" target="blank"><img src="https://img.shields.io/twitter/follow/akcadagdev?logo=twitter&style=for-the-badge" alt="gayfefincani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akcadagdev" target="blank"><img src="https://img.shields.io/twitter/follow/akcadagdev?logo=twitter&style=for-the-badge" alt="akcadagdev" /></a> </p>
 
-- 🔭 I’m currently working on [Tosla](https://play.google.com/store/apps/details?id=com.akode.tosla&hl=tr&gl=US), [Hadisaha](https://apps.apple.com/tr/app/hadisaha/id1529257561) and Unichat
+- 🔭 I’m currently working on [sahibindencom](https://play.google.com/store/apps/details?id=com.sahibinden), [Hadisaha](https://apps.apple.com/tr/app/hadisaha/id1529257561) and Cooiny
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Spanish**
 
 - 👨‍💻 All of my projects are available at [https://emreakcadag.com](https://emreakcadag.com)
 
 - 📝 I regularly write articles on [https://yazilimblogu.com](https://yazilimblogu.com)
 
-- 💬 Ask me about **Flutter, Android, Kotlin, Dart, Nodejs(Express)**
+- 💬 Ask me about **Flutter, Android, Kotlin, Dart, Nodejs**
 
 - 📫 How to reach me **mail@emreakcadag.com**
 
