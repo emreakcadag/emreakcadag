@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spanish**
 
-- 👨‍💻 All of my projects are available at [https://akcadag.dev](https://eakcadag.dev)
+- 👨‍💻 All of my projects are available at [https://akcadag.dev](https://akcadag.dev)
 
 - 📝 I regularly write articles on [https://yazilimblogu.com](https://yazilimblogu.com)
 
