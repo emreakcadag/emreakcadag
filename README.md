@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Spanish**
 
-- 👨‍💻 All of my projects are available at [https://emreakcadag.com](https://emreakcadag.com)
+- 👨‍💻 All of my projects are available at [https://akcadag.dev](https://eakcadag.dev)
 
 - 📝 I regularly write articles on [https://yazilimblogu.com](https://yazilimblogu.com)
 
 - 💬 Ask me about **Flutter, Android, Kotlin, Dart, Nodejs**
 
-- 📫 How to reach me **mail@emreakcadag.com**
+- 📫 How to reach me **emre@akcadag.dev**
 
-- 📄 Know about my experiences [https://emreakcadag.com](https://emreakcadag.com)
+- 📄 Know about my experiences [https://akcadag.dev](https://akcadag.dev)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
