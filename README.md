@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emre Akçadağ</h1>
-<h3 align="center">Flutter and Android application developer at sahibinden.com</h3>
+<h3 align="center">Flutter and Android application developer at Mantar Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreakcadag&label=Profile%20views&color=0e75b6&style=flat" alt="emreakcadag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akcadagdev" target="blank"><img src="https://img.shields.io/twitter/follow/akcadagdev?logo=twitter&style=for-the-badge" alt="akcadagdev" /></a> </p>
 
-- 🔭 I’m currently working on [sahibindencom](https://play.google.com/store/apps/details?id=com.sahibinden), [Hadisaha](https://apps.apple.com/tr/app/hadisaha/id1529257561) and Cooiny
+- 🔭 I’m currently working on the best stock management application [salelog.app](https://salelog.app) 
 
 - 🌱 I’m currently learning **Spanish**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://yazilimblogu.com](https://yazilimblogu.com)
 
-- 💬 Ask me about **Flutter, Android, Kotlin, Dart, Nodejs**
+- 💬 Ask me about **Flutter, Android, Kotlin, Dart, Nodejs, AI**
 
 - 📫 How to reach me **emre@akcadag.dev**
 
@@ -25,9 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gayfefincani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gayfefincani" height="30" width="40" /></a>
+<a href="https://twitter.com/akcadagdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akcadagdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emreakcadag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emreakcadag" height="30" width="40" /></a>
-<a href="https://medium.com/@mrakcadag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mrakcadag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
